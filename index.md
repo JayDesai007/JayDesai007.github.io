@@ -539,9 +539,9 @@
           </div>
 
       </div>
-    </section><!-- End Contact Section -->
+    <!-- End Contact Section -->
 
-  </main><!-- End #main -->
+  <!-- End #main -->
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
